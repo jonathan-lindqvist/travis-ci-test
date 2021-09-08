@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="ws_junit" target="15" />
+      <module name="ws_junit" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
